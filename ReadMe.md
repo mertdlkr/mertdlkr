@@ -20,5 +20,3 @@ IT-focused MIS student sharing knowledge and experience through open-source proj
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mertdlkr&icon=2&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
